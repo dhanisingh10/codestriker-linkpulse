@@ -6,8 +6,8 @@
 > Short links. Smart insights. Safer sharing.
 
 ## Live Links
-- **Live project:** PASTE_YOUR_VERCEL_LINK_HERE
-- **GitHub repository:** PASTE_YOUR_GITHUB_REPO_LINK_HERE
+- **Live project:** codestriker-linkpulse.vercel.app
+- **GitHub repository:** https://github.com/dhanisingh10/codestriker-linkpulse
 
 ## Team Members
 | Name | Role |
