@@ -1,0 +1,13 @@
+# API Endpoints
+- POST /api/auth/register: create an account
+- POST /api/auth/login: log in and get a token
+- POST /api/links: create a short link
+- GET /api/links: list my links
+- POST /api/links/bulk: upload a CSV of links
+- POST /api/links/{code}/toggle: enable or disable a link
+- DELETE /api/links/{code}: delete a link
+- GET /api/links/{code}/qr: QR code image
+- GET /api/links/{code}/analytics: stats for one link
+- GET /api/analytics/overview: dashboard summary
+- POST /api/admin/links/{code}/takedown: admin takedown
+- GET /{code}: redirect to the original URL
